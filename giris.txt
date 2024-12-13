@@ -1,6 +1,10 @@
 otomatik portakal 
 
+kitabin basim yili 
+ 
+ kitabin kacinci baski oldugu
 
-onsoz yazildi
+ yazar ismi ve onunla alakali bilgiler
 
-giris yapildi
+ 
+
